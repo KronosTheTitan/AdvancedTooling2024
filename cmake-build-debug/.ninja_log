@@ -1,0 +1,27 @@
+# ninja log v5
+622	2478	7320483948920211	glfw/src/CMakeFiles/glfw.dir/window.c.obj	6deacf8fc15c847a
+583	2366	7320483947805031	glfw/src/CMakeFiles/glfw.dir/platform.c.obj	9dcf58aadb6ee4b1
+2	409	7325865968986638	build.ninja	61168c7a6aa68de5
+142	2407	7320483948162722	glfw/src/CMakeFiles/glfw.dir/context.c.obj	66e77cac55e98e9
+5	1143	7320494151434600	CMakeFiles/AdvancedTooling2024.dir/main.cpp.obj	a97cc2a4a4f6bedd
+2367	3924	7320483963387523	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	ce987d46bfb57617
+2	1852	7320483942669889	CMakeFiles/AdvancedTooling2024.dir/glad/src/glad.c.obj	47e060d571b39b12
+613	2347	7320483947568386	glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	1e6c3bcab72a8f42
+603	2394	7320483948047382	glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	af4b7b0bafcc4197
+592	2425	7320483948388394	glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	1bec720ff6fdcd25
+3558	4879	7320483972962355	glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	dcc51e7b77bf5752
+364	2437	7320483948508916	glfw/src/CMakeFiles/glfw.dir/init.c.obj	4da3470283653b67
+131	2449	7320483948644282	glfw/src/CMakeFiles/glfw.dir/input.c.obj	809f2ea45d9dea3
+1289	3052	7320483954667684	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	2471d217cd2eef69
+1854	3558	7320483959719771	glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	dd872f3ddfd1a3bd
+2394	3951	7320483963653422	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	2864b24b8e056b1e
+2347	3960	7320483963744889	glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	8f4bd0d4959505b9
+2407	3986	7320483964012453	glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	24a6b8887a670b02
+2437	3995	7320483964107855	glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	c1ba4cc25afad788
+2425	3998	7320483964112851	glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	3cb109b1454c26f4
+2450	4016	7320483964324158	glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	f55b01bb615f3b81
+3053	4484	7320483969018179	glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	c7b13a07348d526
+2478	4099	7320483965097184	glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	cf3169f5e0b8c2f
+3924	5013	7320483974315155	glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	d723002ffa22d1a8
+5014	5228	7320483976480716	glfw/src/libglfw3.a	966ea793a57e8131
+1144	1348	7320494153487799	AdvancedTooling2024.exe	9f4912e66eb01a79
