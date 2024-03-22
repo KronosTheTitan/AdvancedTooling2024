@@ -1,15 +1,39 @@
-C:\Users\tjall\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/tjall/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "F:\02 GameDev\AdvancedTooling2024" -B "F:\02 GameDev\AdvancedTooling2024\cmake-build-debug"
-CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
-  Compatibility with CMake < 3.5 will be removed from a future version of
-  CMake.
+C:\Users\tjall\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/tjall/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe C:\Users\tjall\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\05 School\AdvancedTooling2024" -B "D:\05 School\AdvancedTooling2024\cmake-build-debug"
+CMake Warning:
+  Ignoring extra path from command line:
 
-  Update the VERSION argument <min> value or use a ...<max> suffix to tell
-  CMake that the project does not need compatibility with older versions.
+   "C:/Users/tjall/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake"
 
 
--- Including Win32 support
--- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
--- Documentation generation requires Doxygen 1.9.8 or later
--- Configuring done (0.4s)
--- Generating done (0.1s)
--- Build files have been written to: F:/02 GameDev/AdvancedTooling2024/cmake-build-debug
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "C:\Users\tjall\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake"
+
+
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/tjall/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/tjall/AppData/Local/Programs/CLion/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:12 (find_package):
+  Could not find a package configuration file provided by "SFML" with any of
+  the following names:
+
+    SFMLConfig.cmake
+    sfml-config.cmake
+
+  Add the installation prefix of "SFML" to CMAKE_PREFIX_PATH or set
+  "SFML_DIR" to a directory containing one of the above files.  If "SFML"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
